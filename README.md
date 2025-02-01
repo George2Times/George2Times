@@ -10,6 +10,14 @@ I'm **Jerzy Dziubel**, a **Fullstack COBOL Developer** passionate about building
 - 🛠️ Currently expanding my knowledge in **cybersecurity, programming, automation, and leadership**.
 - 🎯 Actively contributing to **pokedex-app-repo, flask-todo-repo, django-blog-repo**, and more.
 
+## 📊 GitHub Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=George2Times&layout=compact&theme=radical)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=George2Times&show_icons=true&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=George2Times&theme=radical&hide_border=true)
+
 ## 🌟 Projects & Contributions
 Here are some of my highlighted repositories:
 - 🏆 [Gra_RPG](https://github.com/George2Times/Gra_RPG) *(Java)*

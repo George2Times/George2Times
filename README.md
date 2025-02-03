@@ -16,7 +16,7 @@ I'm **Jerzy Dziubel**, a **Fullstack COBOL Developer** passionate about building
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=George2Times&show_icons=true&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=George2Times&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=George2Times&theme=radical&hide_border=true)
 
 ## 🌟 Projects & Contributions
 Here are some of my highlighted repositories:

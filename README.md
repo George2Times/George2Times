@@ -28,7 +28,8 @@ Here are some of my highlighted repositories:
 
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/george-dziubel/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?logo=internet-explorer)](https://George2Times.github.io)
+[![Portfolio: piano](https://img.shields.io/badge/Portfolio-Piano-green?logo=internet-explorer)](https://george2times.github.io/piano/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?logo=internet-explorer)](https://github.com/George2Times)
 
 ---
 
